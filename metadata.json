@@ -1,0 +1,9 @@
+{
+  "name": "VIRAL STUDIO PRO V5 - THE DIRECTOR",
+  "description": "Intelligent AI Production Pipeline with Live Director Voice and Real-time Social Grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
